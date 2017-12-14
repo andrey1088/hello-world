@@ -1,4 +1,4 @@
-# hello-world
+# About vue js
 Learning repository for future projects.
 
 Русская официальная и не оф документация по Vue и экосистеме
